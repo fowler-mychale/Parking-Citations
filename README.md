@@ -35,7 +35,7 @@ From the initial pie chart we can see that 2014, 2015, 2016 were the most active
 
 Next from the line graph we can observe that during 2016 the most tickets cited were between the hours of 2200 and 2300. Below we can observe the top 5 most ticketed by color and the count of tickets issued to out of state vehicles.</br>
 
-### Top 5 ticketed cars by color and by out of state in 2016:</br>
+### Top 5 ticketed cars by color and by out of state in 2016: </br>
   
 - Black
 - White
@@ -43,9 +43,9 @@ Next from the line graph we can observe that during 2016 the most tickets cited 
 - Silver
 - Red
 </br>
-
-The adjacent area line chart tells us that the top 5 ticketd out of state cars in 2016 were:
-
+### By Color </br>
+The adjacent area line chart tells us that the top 5 ticketd out of state cars in 2016 were:</br>
+### By State </br>
 - AZ
 - TX
 - NV
