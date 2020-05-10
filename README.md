@@ -27,8 +27,6 @@ Once completed, we now have two seperate columns for 'Year/Month' and omit the d
 
 <img src="Graph.png" width="1050" height="550">
 
-</br>
-
 
 ### What we learned.
 
