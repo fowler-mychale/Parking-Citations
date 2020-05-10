@@ -52,6 +52,7 @@ The adjacent area line chart tells us that the top 5 ticketd out of state cars i
 ### By State: 
 
 </br>
+
 - AZ
 - TX
 - NV
