@@ -3,13 +3,13 @@
 ## Initial Dataset 
 
 At a glance we need to clean up some of the information in the doc. What immediately stands out is we should break down the issue date column and remove the 'Ticket number' column as we will not need it for our purposes.
-</br></br>
+</br>
 |Ticket number|Issue Date|Issue Time|RP State Plate|Plate Expiry Date|Make|Body Style|Color|Location|Route|Agency|Violation Description|
 |-------------|----------|:---------|--------------|-----------------|----|----------|-----|--------|-----|------|---------------------|
 |1103341116   |12/21/2015|   1251   |      CA      |     200304      |HOND|    PA    | GY  |13147 W.|1521 |  1   |No eveidence of Reg  |  |1103700150   |12/21/2015|   1435   |      CA      |     201512      |GMC |    VN    | WH  |525 S Ma|1C51 |  1   |No eveidence of Reg  |
 |1104803000   |12/21/2015|   2055   |      CA      |     201503      |NISS|    PA    | BK  |200 West|2R2  |  2   |No eveidence of Reg  |   
 
-</br>
+
 
 ### Dataset after alterations
 Once completed, we now have two seperate columns for 'Year/Month' and omit the day from 'Issue date' and 'Ticket number'. This serves two purposes as now the dataset itself is easier to wield and with our 'Year/Month' columns, we can break down information without being too granular and cluttering our dashboard. 
@@ -21,7 +21,7 @@ Once completed, we now have two seperate columns for 'Year/Month' and omit the d
 
 
 
-</br>
+
 
 ### Resulting Dashboard
 
@@ -47,8 +47,6 @@ Next from the line graph we can observe that during 2016 the most tickets cited 
 - Red
 
 ### Top 5 by vehicles by color: 
-
-</br>
 
 The adjacent area line chart tells us that the top 5 ticketd out of state cars in 2016 were:</br>
 
