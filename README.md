@@ -62,3 +62,9 @@ The adjacent area line chart tells us that the top 5 ticketd out of state cars i
 - Washington
 
 And finally, we are able to determine what street issues the most tickets by month using a heatmap. What we can conclude is from January to May is when activity spikes and June through January shows a decline. We can also observe that 11600 San Vicente blvd had the most tickets issued total in the month of January.
+</br>
+
+### Tools used for this project:
+- Python 3.8.2
+- Excel
+- AWS Quicksight
