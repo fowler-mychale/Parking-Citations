@@ -46,7 +46,7 @@ Next from the line graph we can observe that during 2016 the most tickets cited 
 
 The adjacent area line chart tells us that the top 5 ticketd out of state cars in 2016 were:</br>
 
-### Top 5 ticket vehicles by state: 
+### Top 5 ticket vehicles by state outside of CA: 
 
 
 - Arizona
