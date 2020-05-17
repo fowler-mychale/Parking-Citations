@@ -64,3 +64,6 @@ And finally, we are able to determine what street issues the most tickets by mon
 - AWS Quicksight
 - CMD/Powershell
 - VS Code
+
+### Link to dataset </br>
+https://www.kaggle.com/cityofLA/los-angeles-parking-citations?select=parking-citations.csv
