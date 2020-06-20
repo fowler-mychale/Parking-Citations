@@ -25,7 +25,7 @@ Once completed, we now have two seperate columns for 'Year/Month' and omit the d
 
 ### Resulting Dashboard
 
-<img src="Graph.png" width="1050" height="550">
+<img src="Graph.PNG" width="1050" height="550">
 
 
 ### What we learned.
