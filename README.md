@@ -40,7 +40,7 @@ Next from the line graph we can observe that during 2016 the most tickets cited 
 - White
 - Gray
 - Silver
-- Red
+- Blue
 
 ### Top 5 by vehicles by color: 
 
