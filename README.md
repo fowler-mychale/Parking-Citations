@@ -30,9 +30,9 @@ Once completed, we now have two seperate columns for 'Year/Month' and omit the d
 
 ### What we learned.
 
-From the initial pie chart we can see that 2014, 2015, 2016 were the most active with 2016 being the highest of the three.
+From the initial pie chart we can see that January, February, March and April were the most active.
 
-Next from the line graph we can observe that during 2016 the most tickets cited were between the hours of 2200 and 2300. Below we can observe the top 5 most ticketed by color and the count of tickets issued to out of state vehicles.</br>
+Below we can observe the top 5 most ticketed by color and the count of tickets issued to out of state vehicles.</br>
 
 ### Top 5 ticketed cars by color and by out of state: </br>
   
@@ -42,9 +42,9 @@ Next from the line graph we can observe that during 2016 the most tickets cited 
 - Silver
 - Blue
 
-### Top 5 by vehicles by color: 
+### Top 5 by vehicles by Color and Make: 
 
-The adjacent area line chart tells us that the top 5 ticketd out of state cars in 2016 were:</br>
+The line chart tells us that the top 10 ticketed Make and Top 5 Color:</br>
 
 ### Top 5 ticket vehicles by state outside of CA: 
 
